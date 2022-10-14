@@ -1,8 +1,10 @@
 # repositorio-estudos-dio
 Anotações para guiar meus estudos na plataforma
 
-## Cursos de git 
+## Lifecycle git
+![git](https://user-images.githubusercontent.com/41453112/195954628-2138f705-2b5b-4362-bb1d-8dd7ca3e8e78.png)
 
+## Cursos de git 
 - [ ]
 <a href="https://web.dio.me/course/trabalhando-com-branches-no-github/learning/32d05c5a-53b7-4f1d-a798-b9a8658240de">Lidando com branchs</a><br> 
 - [ ]
